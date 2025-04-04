@@ -1,6 +1,6 @@
 <div align="center">
-
-  ## 💫 About Me
+  
+  # 💫 About Me
 
 👋 Olá! Me chamo **Rian Araújo**  
 🎂 Tenho **19 anos**  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Likes
+# 🎯 Likes
 
 🎧 Gosto de ouvir **podcasts sobre tecnologia**  
 📚 Curto fazer **cursos online** e aprender coisas novas  
@@ -18,14 +18,14 @@
 
 ---
 
-## 🤝 Values
+# 🤝 Values
 
 ✨ Acredito no poder da **colaboração**  
 🚀 Estou sempre buscando **crescimento pessoal e profissional**
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rian_araujo03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-araújo-705747306/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rian_araujo03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rianantonioaraujo1234@gmail.com) 
 
  
