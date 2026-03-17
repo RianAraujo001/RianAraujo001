@@ -4,9 +4,9 @@
   # 💫 About Me
 
 👋 Olá! Me chamo **Rian Araújo**  
-🎂 Tenho **19 anos**  
+🎂 Tenho **20 anos**  
 📍 Moro em **Carneirinho - MG, Brasil**  
-🎓 Estudante do **3º semestre de Sistemas de Informação**  
+🎓 Estudante do **5º semestre de Sistemas de Informação**  
 💻 Comecei a programar em **2024**
 
 ---
